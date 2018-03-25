@@ -1,2 +1,2 @@
 ## My blog developed by Hexo.
-* [view](bytechen.github.io)
+* [view](https://bytechen.github.io/)
